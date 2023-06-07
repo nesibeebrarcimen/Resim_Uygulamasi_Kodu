@@ -158,8 +158,8 @@ public class Main extends JFrame {
         if (resmiTut != null) {
             if (resmiTut != null) {
                 // Facebook giriş bilgileri
-                String facebookEmail = "jarawoj595@duscore.com";
-                String facebookPassword = "bilmiyorum";
+                String facebookEmail = "youremail";
+                String facebookPassword = "password";
 
                 // Resmi geçici bir dosyaya kaydet
                 File tempImageFile = new File(saveDirectory, "temp_image.jpg");
